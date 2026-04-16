@@ -48,7 +48,6 @@ top.v                  - Top-level integration module
 ## Verification
 
 The design was tested in a university verification system as part of a computer architecture course.
-All provided test cases were successfully passed.
 
 ## Notes
 
